@@ -185,9 +185,3 @@ Funnels are decision engines, not pipelines—designed iteratively with human in
 4. Run ingest.py.
 5. Execute update SQLs.
 6. Query views for insights.
-
-## Future Extensions
-- Integrate with HubSpot/Zoho APIs for real CRM sync.
-- Add Customer stage with revenue tracking for LTV.
-- AI personalization via external libs (e.g., OpenAI for content gen).
-- Web dashboard (e.g., Streamlit) for visualizations.
