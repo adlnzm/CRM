@@ -1,7 +1,5 @@
 # CRM Funnel Optimizer: ETL Pipeline for Lead Management and CAC Reduction
 
-![Project Banner](path/to/banner-image.png) <!-- Placeholder: Add a relevant image or screenshot of the DB schema -->
-
 ## Project Overview
 
 This project implements a lightweight, PostgreSQL-based ETL (Extract, Transform, Load) pipeline designed to orchestrate a B2B SaaS sales funnel. It ingests raw marketing and sales events (e.g., views, downloads, demo bookings) from JSON files, normalizes them into structured tables, computes intent scores, updates lead stages (Lead → MQL → SQL), assigns nurture tracks (Low, Mid, High), and generates analytical views for funnel performance, channel effectiveness, and intent insights.
