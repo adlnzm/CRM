@@ -1,0 +1,29 @@
+[
+    {
+        "event_id":"b1c0e5e2-1b90-4c2f-9f64-0a3e8dcb91a1",
+        "email":"john@acme.com",
+        "company":"Acme Inc",
+        "industry":"SaaS",
+        "event_type":"view",
+        "channel":"LinkedIn",
+        "event_time":"2025-01-10T10:30:00"
+    },
+    {
+        "event_id":"a9f42c17-b80e-43bb-9e13-59a12d7b234c",
+        "email":"john@acme.com",
+        "company":"Acme Inc",
+        "industry":"SaaS",
+        "event_type":"download",
+        "channel":"Email",
+        "event_time":"2025-01-11T12:00:00"
+    },
+    {
+        "event_id":"f91cbb23-96b2-4c79-bfe1-53b6ad19312d",
+        "email":"sara@fintech.io",
+        "company":"Fintech.io",
+        "industry":"FinTech",
+        "event_type":"demo_booked",
+        "channel":"Website",
+        "event_time":"2025-01-12T15:45:00"
+    }
+]
